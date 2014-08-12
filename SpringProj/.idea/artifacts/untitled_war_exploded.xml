@@ -5,7 +5,7 @@
       <element id="javaee-facet-resources" facet="untitled/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="untitled" />
+          <element id="module-output" name="SpringProj" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.0.6.RELEASE" />
